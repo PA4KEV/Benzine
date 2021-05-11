@@ -1,0 +1,155 @@
+                                             152285
+2017-11-23 | 19:32 | 35.37 | 1.179 | 30.00 | 152595 | ZB-ND-52 | Tango (Beek en Donk)
+2017-12-01 | 07:58 | 26.60 | 1.209 | 22.00 | 153099 | ZB-ND-52 | Tango (Beek en Donk)
+2017-12-07 | 18:57 | 30.91 | 1.189 | 26.00 | 153565 | ZB-ND-52 | Dijktank (Zaltbommel) 
+2017-12-13 | 20:27 | 10.95 | 1.369 | 08.00 | 154061 | ZB-ND-52 | Shell (De Lucht West)
+2017-12-15 | 00:00 | 00.00 | 0.000 | 00.00 | 154221 | ZB-ND-52 | Tango (Beek en Donk)
+2017-12-21 | 07:58 | 26.60 | 1.199 | 25.00 | 154752 | ZB-ND-52 | Tango (Beek en Donk)
+2017-12-29 | 08:30 | 31.95 | 1.229 | 26.00 | 155279 | ZB-ND-52 | Tango (Beek en Donk)
+2018-01-08 | 09:02 | 28.50 | 1.239 | 23.00 | 155808 | ZB-ND-52 | Tango (Beek en Donk)
+2018-01-11 | 18:35 | 20.60 | 1.239 | 16.63 | 156170 | ZB-ND-52 | Dijktank (Zaltbommel) 
+2018-01-18 | 08:27 | 20.72 | 1.219 | 17.00 | 156652 | ZB-ND-52 | Tango (Beek en Donk) 
+2018-01-23 | 20:54 | 30.66 | 1.169 | 26.23 | 157058 | ZB-ND-52 | Tango (Beek en Donk) 
+2018-02-02 | 16:42 | 31.32 | 1.249 | 25.08 | 157873 | ZB-ND-52 | Firezone (Zwolle, Deventerstraatweg 10)
+2018-02-07 | 18:10 | 30.48 | 1.219 | 25.00 | 158477 | ZB-ND-52 | Tango (Beek en Donk) 
+2018-02-13 | 08:18 | 28.54 | 1.189 | 24.00 | 158960 | ZB-ND-52 | Tango (Beek en Donk)
+2018-02-19 | 17:59 | 26.08 | 1.169 | 27.00 | 159482 | ZB-ND-52 | Dijktank (Zaltbommel)
+2018-02-24 | 10:59 | 32.47 | 1.249 | 26.00 | 160006 | ZB-ND-52 | Schoenmakers (Helmond)
+2018-02-28 | 19:19 | 34.70 | 1.239 | 28.01 | 160607 | ZB-ND-52 | Shell Kennedylaan West (Eindhoven)
+2018-03-06 | 21:16 | 19.43 | 1.209 | 16.07 | 161075 | ZB-ND-52 | Esso Karel de Grotelaan (Eindhoven)
+2018-03-09 | 17:22 | 30.91 | 1.189 | 26.00 | 161504 | ZB-ND-52 | Dijktank (Zaltbommel)
+2018-03-16 | 08:19 | 30.18 | 1.189 | 25.38 | 162082 | ZB-ND-52 | Tango (Beek en Donk)
+2018-03-19 | 18:00 | 22.78 | 1.199 | 19.00 | 162462 | ZB-ND-52 | Tango (Beek en Donk)
+2018-03-26 | 15:02 | 09.65 | 1.379 | 07.00 | 163006 | ZB-ND-52 | Shell (De Lucht West)
+2018-03-27 | 18:06 | 31.95 | 1.229 | 26.00 | 162462 | ZB-ND-52 | Tango (Beek en Donk)
+2018-04-04 | 07:53 | 30.93 | 1.229 | 25.17 | 163670 | ZB-ND-52 | Tango (Beek en Donk)
+2018-04-16 | 21:33 | 29.98 | 1.199 | 25.00 | 164244 | ZB-ND-52 | Dijktank (Zaltbommel)
+2018-05-01 | 17:18 | 30.23 | 1.209 | 25.00 | 164767 | ZB-ND-52 | Dijktank (Zaltbommel)
+2018-05-11 | 18:38 | 30.05 | 1.289 | 23.31 | 165297 | ZB-ND-52 | Tango (Beek en Donk)
+2018-05-19 | 09:12 | 18.67 | 1.339 | 13.94 | 165596 | ZB-ND-52 | Shell Krogterijen (Breda)
+2018-05-29 | 07:54 | 29.54 | 1.309 | 22.57 | 166137 | ZB-ND-52 | Tango (Beek en Donk)
+2018-06-03 | 16:02 | 28.68 | 1.434 | 20.00 | ?????? | ZB-ND-52 | Texaco (Baarle-Hertog)
+2018-06-11 | 18:49 | 26.31 | 1.379 | 19.08 | 167014 | ZB-ND-52 | Esso Relou Noord (Helmond)
+2018-06-15 | 17:17 | 18.47 | 1.319 | 14.00 | 167433 | ZB-ND-52 | Esso Vissers de Waluwe (Zaltbommel)
+2018-06-22 | 19:35 | 31.66 | 1.319 | 24.00 | 167858 | ZB-ND-52 | Texaco (Nuenen)
+2018-07-06 | 20:39 | 34.35 | 1.329 | 25.85 | 168384 | ZB-ND-52 | Texaco (Nuenen)
+2018-07-19 | 17:16 | 32.47 | 1.249 | 26.00 | 169038 | ZB-ND-52 | Dijktank (Zaltbommel)
+2018-07-22 | 17:59 | 31.67 | 1.319 | 24.01 | 169566 | ZB-ND-52 | Shell Vrouwenhof (Roosendaal)
+2018-07-26 | 17:13 | 27.92 | 1.269 | 22.00 | 170096 | ZB-ND-52 | Dijktank (Zaltbommel)
+2018-08-02 | 17:46 | 39.28 | 1.309 | 30.01 | 170703 | ZB-ND-52 | Tango (Helmond, Torenstraat)
+2018-08-11 | 13:18 | 30.12 | 1.369 | 22.00 | 171244 | ZB-ND-52 | BP Langdonk (Roosendaal)
+2018-08-21 | 18:19 | 31.49 | 1.369 | 23.00 | 171792 | ZB-ND-52 | Shell Verbakel (Helmond)
+2018-09-03 | 08:45 | 34.55 | 1.329 | 26.00 | 172254 | ZB-ND-52 | Tango (Beek en Donk)
+2018-09-09 | 12:35 | 36.39 | 1.399 | 26.01 | 172832 | ZB-ND-52 | Esso Relou Noord (Helmond)
+2018-09-17 | 18:57 | 33.48 | 1.339 | 25.00 | 173457 | ZB-ND-52 | Esso (Nuenen)
+2018-09-25 | 19:45 | 25.39 | 1.269 | 20.01 | 173956 | ZB-ND-52 | Tango (Beek en Donk)
+2018-11-05 | 07:30 | 31.90 | 1.329 | 24.00 | 174375 | ZB-ND-52 | Tango (Beek en Donk)
+2018-11-09 | 08:01 | 30.34 | 1.319 | 23.00 | 174838 | ZB-ND-52 | Tango (Beek en Donk)
+2018-11-15 | 07:28 | 31.72 | 1.309 | 24.23 | 175352 | ZB-ND-52 | Tango (Beek en Donk)
+2018-11-21 | 08:01 | 31.67 | 1.319 | 24.01 | 175827 | ZB-ND-52 | Tango (Beek en Donk)
+2018-11-27 | 21:24 | 35.61 | 1.319 | 27.00 | ?????? | ZB-ND-52 | Esso Karel de Grotelaan (Eindhoven)
+2018-12-04 | 18:09 | 28.14 | 1.279 | 24.01 | 176855 | ZB-ND-52 | Tango (Beek en Donk)
+2018-12-11 | 08:18 | 30.73 | 1.229 | 25.00 | 177392 | ZB-ND-52 | Dijktank (Zaltbommel)
+2018-12-18 | 19:45 | 35.11 | 1.299 | 27.03 | 177928 | ZB-ND-52 | Firezone (Eindhoven)
+2018-12-27 | 17:47 | 26.16 | 1.189 | 22.00 | 178479 | ZB-ND-52 | Tango (Beek en Donk)
+2019-01-07 | 18:02 | 30.98 | 1.239 | 25.00 | 179007 | ZB-ND-52 | Tango (Beek en Donk)
+2019-01-14 | 17:55 | 32.37 | 1.269 | 25.51 | 179532 | ZB-ND-52 | Tango (Beek en Donk)
+2019-01-19 | 19:28 | 31.73 | 1.269 | 25.00 | 180038 | ZB-ND-52 | Esso (Nuenen)
+2019-01-28 | 17:45 | 32.12 | 1.249 | 25.72 | 180587 | ZB-ND-52 | Dijktank (Zaltbommel)
+2019-02-01 | 18:10 | 29.62 | 1.319 | 22.46 | ?????? | ZB-ND-52 | Schoenmakers (Helmond)
+2019-02-08 | 18:04 | 30.70 | 1.279 | 24.00 | 181613 | ZB-ND-52 | Tango (Beek en Donk)
+2019-02-19 | 21:31 | 33.24 | 1.356 | 24.51 | 182182 | ZB-ND-52 | Total (Eindhoven)
+2019-02-26 | 17:58 | 29.02 | 1.319 | 22.00 | 182716 | ZB-ND-52 | Tango (Beek en Donk)
+2019-03-03 | 13:34 | 28.33 | 1.349 | 21.00 | 183081 | ZB-ND-52 | Schoenmakers (Helmond)
+2019-03-06 | 18:04 | 33.09 | 1.309 | 25.28 | 183647 | ZB-ND-52 | Tango (Beek en Donk)
+2019-03-25 | 17:56 | 31.42 | 1.309 | 24.00 | 184670 | ZB-ND-52 | Tango (Beek en Donk)
+2019-03-31 | 21:51 | 35.88 | 1.329 | 27.00 | 185179 | ZB-ND-52 | Firezone (Oosterhout)
+2019-04-05 | 17:57 | 29.65 | 1.289 | 23.00 | 185748 | ZB-ND-52 | Dijktank (Zaltbommel)
+2019-04-10 | 19:17 | 30.35 | 1.379 | 22.01 | 186167 | ZB-ND-52 | Argos Schoenmakers (Helmond)
+2019-04-18 | 17:53 | 34.03 | 1.309 | 26.00 | 186781 | ZB-ND-52 | Tango (Beek en Donk)
+2019-05-01 | 08:05 | 32.39 | 1.349 | 24.01 | 187293 | ZB-ND-52 | Tango (Beek en Donk)
+2019-05-10 | 09:23 | 28.96 | 1.379 | 21.00 | 187687 | ZB-ND-52 | Argos Schoenmakers (Helmond)
+2019-05-24 | 17:57 | 32.62 | 1.359 | 24.00 | 188271 | ZB-ND-52 | Tango (Beek en Donk)
+2019-06-01 | 11:19 | 20.02 | 1.394 | 14.36 | 188739 | ZB-ND-52 | Total (Gilze)
+2019-06-04 | 09:44 | 31.38 | 1.319 | 23.79 | 189083 | ZB-ND-52 | Esso (Deurne)
+2019-06-10 | 17:35 | 20.17 | 1.289 | 15.65 | 189443 | ZB-ND-52 | Tango (Beek en Donk)
+2019-06-13 | 18:19 | 28.44 | 1.249 | 22.77 | 189986 | ZB-ND-52 | Tango (Beek en Donk)
+2019-06-18 | 19:42 | 34.25 | 1.289 | 26.57 | 190536 | ZB-ND-52 | Tango (Beek en Donk)
+2019-06-24 | 19:53 | 30.06 | 1.239 | 24.26 | 191165 | ZB-ND-52 | Tango (Beek en Donk)
+2019-07-02 | 11:51 | 35.85 | 1.339 | 26.77 | 191777 | ZB-ND-52 | Tango (Beek en Donk)
+2019-07-08 | 18:42 | 28.58 | 1.289 | 22.17 | 192359 | ZB-ND-52 | Tango (Beek en Donk)
+2019-07-15 | 18:07 | 35.57 | 1.309 | 27.17 | 192931 | ZB-ND-52 | Tango (Beek en Donk)
+2019-07-27 | 17:25 | 28.07 | 1.289 | 21.78 | 193524 | ZB-ND-52 | Tango (Beek en Donk)
+2019-08-09 | 09:17 | 29.15 | 1.279 | 22.79 | 194054 | ZB-ND-52 | Tango (Beek en Donk)
+2019-08-16 | 08:01 | 28.16 | 1.269 | 22.19 | 194593 | ZB-ND-52 | Tango (Beek en Donk)
+2019-08-27 | 08:26 | 24.49 | 1.289 | 19.00 | 195106 | ZB-ND-52 | Tango (Beek en Donk)
+2019-08-31 | 03:03 | 31.90 | 1.279 | 24.94 | 195605 | ZB-ND-52 | Tango (Beek en Donk)
+2019-09-07 | 20:11 | 33.08 | 1.269 | 26.06 | 196145 | ZB-ND-52 | Esso (Nuenen)
+2019-09-15 | 11:05 | 26.13 | 1.319 | 19.81 | 196655 | ZB-ND-52 | Tango (Beek en Donk)
+2019-09-19 | 18:51 | 35.04 | 1.389 | 25.23 | 197203 | ZB-ND-52 | Argos Schoenmakers (Helmond)
+2019-09-24                                   197496 | ZB-ND-52
+2019-09-26 | 18:03 | 34.72 | 1.319 | 26.32 | 197831 | ZB-ND-52 | Tango (Beek en Donk)
+2019-10-03 | 07:48 | 31.15 | 1.309 | 23.80 | 198394 | ZB-ND-52 | Tango (Beek en Donk)
+2019-10-09 | 17:41 | 33.16 | 1.309 | 25.33 | 198990 | ZB-ND-52 | Tango (Beek en Donk)
+2019-10-18 | 08:09 | 32.32 | 1.319 | 24.50 | 199569 | ZB-ND-52 | Tango (Beek en Donk)
+2019-10-27 | 13:13 | 36.02 | 1.369 | 26.31 | 200119 | ZB-ND-52 | Argos Schoenmakers (Helmond)
+2019-11-04 | 18:23 | 30.05 | 1.299 | 23.19 | 200724 | ZB-ND-52 | Tango (Beek en Donk)
+2019-11-11 | 08:24 | 32.88 | 1.319 | 24.93 | 201263 | ZB-ND-52 | Tango (Beek en Donk)
+2019-11-15 | 19:40 | 33.48 | 1.319 | 25.38 | 201844 | ZB-ND-52 | Tango (Beek en Donk)
+2019-11-20 | 18:16 | 24.16 | 1.319 | 18.32 | 202243 | ZB-ND-52 | Tango (Beek en Donk)
+2019-11-28 | 17:25 | 35.49 | 1.289 | 27.53 | 202846 | ZB-ND-52 | Dijktank (Zaltbommel)
+2019-12-05 | 08:04 | 30.98 | 1.309 | 23.67 | 203380 | ZB-ND-52 | Tango (Beek en Donk)
+2019-12-13 | 07:35 | 33.77 | 1.329 | 25.41 | 203962 | ZB-ND-52 | Tango (Beek en Donk)
+2019-12-20 | 17:48 | 34.48 | 1.309 | 26.34 | 204545 | ZB-ND-52 | Dijktank (Zaltbommel)
+2019-12-27 | 18:04 | 29.20 | 1.309 | 22.31 | 205082 | ZB-ND-52 | Tango (Beek en Donk)
+2020-01-06 | 13:06 | 34.26 | 1.399 | 24.49 | 205606 | ZB-ND-52 | Tango (Eindhoven)
+2020-01-09 | 17:57 | 23.79 | 1.369 | 17.38 | 206019 | ZB-ND-52 | Tango (Beek en Donk)
+2020-01-16 | 18:45 | 35.50 | 1.389 | 25.56 | 206582 | ZB-ND-52 | Argos Schoenmakers (Helmond)
+2020-01-24 | 08:31 | 31.49 | 1.339 | 23.52 | 207177 | ZB-ND-52 | Tango (Beek en Donk)
+2020-01-30 | 18:31 | 36.88 | 1.509 | 24.44 | 207702 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power 
+2020-02-06 | 18:22 | 41.35 | 1.489 | 27.77 | 208259 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-02-12 | 19:41 | 33.74 | 1.479 | 22.81 | 208793 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-02-22 | 17:52 | 31.55 | 1.509 | 20.91 | 209229 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-02-27 | 18:49 | 37.92 | 1.489 | 25.47 | 209803 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-03-05 | 18:18 | 34.48 | 1.459 | 23.63 | 210307 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-03-12 | 18:12 | 33.93 | 1.389 | 24.43 | 210859 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-03-20 | 08:58 | 36.39 | 1.379 | 26.39 | 211430 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-04-24 | 17:08 | 29.88 | 1.359 | 21.99 | 211926 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-06-04 | 08:35 | 32.31 | 1.339 | 24.13 | 212396 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-06-11 | 08:46 | 31.84 | 1.339 | 23.78 | ?????? | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-06-19 | 08:37 | 32.11 | 1.349 | 23.80 | 213523 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-06-30 | 08:52 | 32.14 | 1.359 | 23.65 | 214049 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-07-06 | 19:02 | 29.97 | 1.359 | 22.05 | 214577 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-07-13 | 19:33 | 30.69 | 1.369 | 22.42 | 215113 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-07-22 | 12:10 | 32.98 | 1.359 | 24.27 | 215702 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-07-30 | 18:24 | 33.54 | 1.359 | 24.68 | 216267 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-08-07 | 08:25 | 30.27 | 1.349 | 22.44 | 216837 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-08-15 | 14:25 | 35.31 | 1.359 | 24.25 | 217429 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-08-21 | 08:10 | 31.97 | 1.349 | 23.70 | 218018 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-08-28 | 08:40 | 31.84 | 1.349 | 23.60 | 218551 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-09-04 | 17:49 | 34.13 | 1.329 | 25.68 | 219182 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-09-14 | 08:40 | 30.97 | 1.299 | 23.84 | 219740 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-09-21 | 10:12 | 31.55 | 1.309 | 24.10 | 220297 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-09-29 | 08:53 | 31.44 | 1.309 | 24.02 | 220868 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-10-07 | 19:18 | 34.16 | 1.309 | 26.10 | 221471 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-10-15 | 08:42 | 33.77 | 1.329 | 25.41 | 222024 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-10-22 | 17:57 | 37.58 | 1.319 | 28.49 | 222666 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-10-30 | 08:12 | 32.35 | 1.309 | 24.71 | 223217 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-11-06 | 08:09 | 31.99 | 1.319 | 24.25 | 223752 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-11-16 | 08:08 | 31.19 | 1.339 | 23.29 | 224288 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-11-23 | 08:29 | 29.17 | 1.349 | 21.62 | 224767 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-11-30 | 09:07 | 32.17 | 1.369 | 23.50 | 225305 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-12-07 | 08:26 | 34.39 | 1.369 | 25.12 | 225848 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-12-14 | 08:16 | 31.04 | 1.379 | 31.04 | 226327 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-12-21 | 08:15 | 33.43 | 1.389 | 24.07 | 226867 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2020-12-26 | 15:40 | 37.53 | 1.389 | 27.02 | 227452 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2021-01-04 | 14:56 | 36.92 | 1.409 | 26.20 | 228000 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2021-01-18 | 15:17 | 39.37 | 1.469 | 26.80 | 228559 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2021-01-27 | 09:57 | 31.34 | 1.459 | 21.48 | 229105 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2021-02-02 | 08:44 | 34.23 | 1.459 | 23.46 | 229542 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2021-02-19 | 13:44 | 28.01 | 1.529 | 18.32 | 229851 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2021-03-02 | 08:11 | 42.11 | 1.539 | 27.36 | 230404 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+(Brandstof lekkage)
+2021-03-09 | 08:13 | 37.19 | 1.549 | 24.01 | 230943 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2021-03-19 | 08:46 | 37.86 | 1.549 | 24.44 | 231476 | ZB-ND-52 | Shell Verbakel (Helmond) V-Power
+2021-03-26 | 16:45 | 36.55 | 1.299 | 28.14 | 232071 | ZB-ND-52 | Dijktank (Zaltbommel)
